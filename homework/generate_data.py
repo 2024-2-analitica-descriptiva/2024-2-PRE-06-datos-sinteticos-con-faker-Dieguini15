@@ -45,7 +45,6 @@ def save_fake_data(fake_data, filename):
             writer.writerow(record)
 
 
-
 def generate_fake_timesheet(drivers, n):
     """Generate n fake timesheet records.
 
